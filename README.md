@@ -227,9 +227,9 @@ The program prints evaluation results and displays the Gradient Boosting ROC cur
 
 ## 👩‍💻 Author
 
-**Your Name**
+vaishali
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub:https://github.com/vaishaliv7031-netizen/chrun_prediction
 
 ---
 
